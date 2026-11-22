@@ -1,3 +1,7 @@
+intern id -  cis401
+ 
+ 
+ 
  E-Commerce Sales Analytics, Customer Segmentation & Predictive Modeling
 
 An end-to-end data analytics and machine learning portfolio project built on multi-table e-commerce transaction data (`orders.csv`, `customers.csv`, `products.csv`, and `payments.csv`). The project covers automated data cleaning, relational joins, feature engineering, exploratory visualizations, and predictive customer tier classification.
